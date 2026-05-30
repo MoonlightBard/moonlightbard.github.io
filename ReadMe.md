@@ -1,3 +1,3 @@
-#Portfolio of Rebecca Peltier
+#Personal Website of Becky Peltier
 
->https://rkpeltier.github.io/
+>https://moonlightbard.github.io/
